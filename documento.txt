@@ -1,0 +1,42 @@
+Alvaro Martinez-Cediel Algora
+
+Debe contener mínimo 1 cubo:
+
+cuerpo del personaje
+
+
+• Debe contener mínimo 2 esferas a las que se les haya aplicado un cambio de escala.
+Ambas esferas deben tener una escala diferente a (1, 1, 1):
+
+
+tanto los ojos, como las manos
+
+
+• Debe contener mínimo 1 cilindro al que se le haya modificado la rotación. Su rotación
+debe ser diferente a (0, 0, 0).
+
+los brazos  piernas
+
+
+• Debe contener mínimo 1 píldora (Capsule)
+
+
+los antebrazos y las espinillas
+
+
+• Uno de ellos debe tener asociado una textura
+
+
+todos los game objects tienen material
+
+
+• Uno de ellos debe tener un tinte diferente a blanco en la opción Albedo
+
+
+la cabeza es un albedo color marron claro
+
+
+• Uno de ellos debe ser transparente
+
+
+las esferas que tienen la funcion de ojos de los personajes
